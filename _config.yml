@@ -1,0 +1,9 @@
+title: Franzbrötchenprogrammiernacht
+email: fbpn@example.net
+description: >
+  Wir essen Franzbrötchen und programmieren in der Nacht.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fbpn.ch" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
